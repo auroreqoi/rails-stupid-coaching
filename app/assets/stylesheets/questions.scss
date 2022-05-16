@@ -1,0 +1,29 @@
+body {
+  background-color: #D3C1D2;
+}
+
+.question {
+  color: #876E83;
+
+}
+
+.you {
+  color: #A38FA0;
+}
+
+.answer {
+  color: #E08B29;
+}
+
+.coach {
+  color: #B36B19;
+}
+
+h3 {
+  color : #540D6E;
+  text-decoration: none;
+  &:hover {
+    scale: 1.2;
+    cursor: help;
+  }
+}
