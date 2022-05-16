@@ -19,11 +19,10 @@ body {
   color: #B36B19;
 }
 
-h3 {
+a:link {
   color : #540D6E;
   text-decoration: none;
   &:hover {
-    scale: 1.2;
     cursor: help;
   }
 }
